@@ -37,3 +37,32 @@ nav a {
 nav img {
   width: 5vw;
 }
+
+.main{
+  background-image: url(img/background.jpeg);
+  background-size: cover;
+}
+
+.start {
+  color: white;
+  text-align: center;
+}
+
+.jscript {
+  background-color: #151515;
+  
+}
+
+.jtext {
+  color: white;
+}
+
+.java {
+  color: yellow;
+}
+
+footer {
+  text-align: center;
+  min-height: 10vh;
+  background: #00a8c7;
+}
